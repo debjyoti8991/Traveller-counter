@@ -1,0 +1,50 @@
+body {
+    background-image: url("yarn.jpeg");
+    background-size: cover;
+    font-family: 'Segoe UI', Roboto,  'Helvetica Neue', -apple-system, BlinkMacSystemFont,  Ubuntu, Cantarell, 'Open Sans',  sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: teal;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+    
+}
+
+#increment-btn {
+    background: orange;
+    color: black;
+}
+
+#save-btn {
+    background: teal;
+    color: black;
+}
+
+#innerBody {
+    background-color: hsla(0,0%,0%, 0.7);
+    padding: 20px;
+    max-width: 80%;
+    margin: auto;
+    border-radius: 10px; 
+}
